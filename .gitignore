@@ -1,0 +1,6 @@
+### Webpack/Generated ###
+webpack-stats.json
+node_modules/
+
+### Web stuff
+static/
